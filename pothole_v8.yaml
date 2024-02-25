@@ -1,0 +1,7 @@
+path: '/content/PotholeDetection-9'
+train: '/content/PotholeDetection-9/train/images'
+val: '/content/PotholeDetection-9/valid/images'
+
+# class names
+names:
+  0: 'pothole'
